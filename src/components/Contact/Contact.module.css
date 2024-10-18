@@ -1,0 +1,11 @@
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 230px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
